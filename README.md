@@ -1,5 +1,5 @@
 # practices
-
+```mermaid
 erDiagram
     USER {
         SERIAL user_id PK
